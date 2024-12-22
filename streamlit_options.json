@@ -1,0 +1,48 @@
+{
+  "slider_fields": {
+    "fixed_acidity": [
+      3,
+      15
+    ],
+    "volatile_acidity": [
+      0,
+      2
+    ],
+    "citric_acid": [
+      0,
+      2
+    ],
+    "residual_sugar": [
+      0,
+      66
+    ],
+    "chlorides": [
+      0,
+      1
+    ],
+    "free_sulfur_dioxide": [
+      2,
+      289
+    ],
+    "total_sulfur_dioxide": [
+      9,
+      440
+    ],
+    "density": [
+      0,
+      2
+    ],
+    "pH": [
+      2,
+      4
+    ],
+    "sulphates": [
+      0,
+      2
+    ],
+    "alcohol": [
+      8,
+      15
+    ]
+  }
+}
